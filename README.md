@@ -63,33 +63,7 @@
 
 ---
 
-### 🏆 Certifications
-
-✅ **AWS Certified DevOps Engineer – Professional** · ✅ **LFCS-N** · 🎯 **AZ-500** *(in prep)* · 🎯 **SC-100** *(in prep)*
-
----
-
-### 💼 Career Highlights
-
-**2020 – 2025 · DevOps Engineer @ 1&1** — HA Kubernetes hardening, DevSecOps CI/CD pipelines, ELK & Prometheus observability.  
-**2019 – 2020 · DevOps Engineer @ ioki** — Immutable infra on OpenStack with Terraform & SaltStack, HA PostgreSQL/PostGIS.  
-**2011 – 2018 · Systems & Hardware Engineer** — IoT beacon hardware, edge computing, low-level backend integration.  
-**2025 – now · OSS Contributor @ [agentics.org](https://agentics.org)** — Zero-Trust & resilience for agentic AI modules.
-
----
-
-### 📈 GitHub Stats
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aelhilali7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelhilali7&layout=compact&theme=tokyonight&hide_border=true" />
+  <sub><i>“The best way to secure a secret is to never have one in the first place. The second best way is to convince the auditor it's encrypted.”</i></sub><br/>
+  <sub>— definitely not Kelsey Hightower</sub>
 </p>
-
----
-
-### 📫 Get in Touch
-
-<a href="mailto:ahmed-hilali@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/aelhilali7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<sub><i>“Security is not a feature — it's an architectural principle. Build it in, don't bolt it on.”</i></sub>
