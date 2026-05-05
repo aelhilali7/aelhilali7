@@ -18,21 +18,9 @@
 
 | | |
 |---|---|
-| 📍 **Location** | Ludwigshafen am Rhein, Germany 🇩🇪 |
 | 🎯 **Focus** | Zero-Trust · Identity-First · Secretless Design |
 | ☸️ **Platforms** | Azure (AKS) · AWS · OpenStack · Kubernetes (HA) |
-| 💬 **Languages** | German · English · Arabic · French |
-| 📚 **In Progress** | AZ-500 · SC-100 |
 | 💼 **Open to** | Senior / Lead DevSecOps & Cloud Security roles |
-
----
-
-### 🚀 What I Do
-
-**🔐 Secure by Design** — Hardened, identity-first Kubernetes platforms with Zero-Trust from day one.  
-**☸️ Kubernetes at Scale** — Multi-cluster HA on AKS & on-prem with Cilium/eBPF, OPA, RBAC, NetworkPolicies.  
-**⚙️ GitOps & Shift-Left** — ArgoCD, GitLab CI/CD, GitHub Actions · SAST/DAST/SCA · signed images & SBOMs.  
-**🆔 Secretless Identity** — Azure Workload Identity Federation, OIDC/JWT, Microsoft Entra ID.
 
 ---
 
